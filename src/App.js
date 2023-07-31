@@ -140,7 +140,7 @@ const App = () => {
         
         <div class="container">
         <div class = "align-center">
-        <img src="https://i.imgur.com/UuI1OYQ.png" border="0"></img>
+        {/* <img src="https://i.imgur.com/UuI1OYQ.png" border="0"></img> */}
         </div>
         <p>Current products</p>
         <ul ref={productListRef}>
