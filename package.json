@@ -10,6 +10,7 @@
     "dotenv": "^16.3.1",
     "google-search-results-nodejs": "^2.1.0",
     "json-url": "^3.1.0",
+    "materialize-css": "^1.0.0-rc.2",
     "querystring-es3": "^0.2.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
